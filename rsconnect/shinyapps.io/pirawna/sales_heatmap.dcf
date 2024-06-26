@@ -1,0 +1,10 @@
+name: sales_heatmap
+title:
+username: pirawna
+account: pirawna
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12234204
+bundleId: 8787654
+url: https://pirawna.shinyapps.io/sales_heatmap/
+version: 1
